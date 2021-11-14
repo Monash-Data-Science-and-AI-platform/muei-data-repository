@@ -9,7 +9,7 @@ function NavBar() {
   return (
     <div id="nav">
       <Navbar collapseOnSelect expand="lg">
-        <Navbar.Brand href="#/">
+        <Navbar.Brand href="https://monash-data-science-and-ai-platform.github.io/muei-data-repository/#/">
           <img
             alt="logo"
             src={logoImage}
