@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Monash-Data-Science-and-AI-platform/muei-data-repository/static/css/main.90ecc0b6.chunk.css",
-    "main.js": "/Monash-Data-Science-and-AI-platform/muei-data-repository/static/js/main.1265e717.chunk.js",
-    "main.js.map": "/Monash-Data-Science-and-AI-platform/muei-data-repository/static/js/main.1265e717.chunk.js.map",
-    "runtime-main.js": "/Monash-Data-Science-and-AI-platform/muei-data-repository/static/js/runtime-main.5fab5894.js",
-    "runtime-main.js.map": "/Monash-Data-Science-and-AI-platform/muei-data-repository/static/js/runtime-main.5fab5894.js.map",
-    "static/js/2.c68cfd43.chunk.js": "/Monash-Data-Science-and-AI-platform/muei-data-repository/static/js/2.c68cfd43.chunk.js",
-    "static/js/2.c68cfd43.chunk.js.map": "/Monash-Data-Science-and-AI-platform/muei-data-repository/static/js/2.c68cfd43.chunk.js.map",
-    "index.html": "/Monash-Data-Science-and-AI-platform/muei-data-repository/index.html",
-    "precache-manifest.edd6624c4951974b651b559c2b8dfd23.js": "/Monash-Data-Science-and-AI-platform/muei-data-repository/precache-manifest.edd6624c4951974b651b559c2b8dfd23.js",
-    "service-worker.js": "/Monash-Data-Science-and-AI-platform/muei-data-repository/service-worker.js",
-    "static/css/main.90ecc0b6.chunk.css.map": "/Monash-Data-Science-and-AI-platform/muei-data-repository/static/css/main.90ecc0b6.chunk.css.map",
-    "static/js/2.c68cfd43.chunk.js.LICENSE.txt": "/Monash-Data-Science-and-AI-platform/muei-data-repository/static/js/2.c68cfd43.chunk.js.LICENSE.txt"
+    "main.css": "/muei-data-repository/static/css/main.90ecc0b6.chunk.css",
+    "main.js": "/muei-data-repository/static/js/main.f9bba204.chunk.js",
+    "main.js.map": "/muei-data-repository/static/js/main.f9bba204.chunk.js.map",
+    "runtime-main.js": "/muei-data-repository/static/js/runtime-main.7bff779c.js",
+    "runtime-main.js.map": "/muei-data-repository/static/js/runtime-main.7bff779c.js.map",
+    "static/js/2.c68cfd43.chunk.js": "/muei-data-repository/static/js/2.c68cfd43.chunk.js",
+    "static/js/2.c68cfd43.chunk.js.map": "/muei-data-repository/static/js/2.c68cfd43.chunk.js.map",
+    "index.html": "/muei-data-repository/index.html",
+    "precache-manifest.56a1beddb63d8847bcbfcb1aada72fd3.js": "/muei-data-repository/precache-manifest.56a1beddb63d8847bcbfcb1aada72fd3.js",
+    "service-worker.js": "/muei-data-repository/service-worker.js",
+    "static/css/main.90ecc0b6.chunk.css.map": "/muei-data-repository/static/css/main.90ecc0b6.chunk.css.map",
+    "static/js/2.c68cfd43.chunk.js.LICENSE.txt": "/muei-data-repository/static/js/2.c68cfd43.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5fab5894.js",
+    "static/js/runtime-main.7bff779c.js",
     "static/js/2.c68cfd43.chunk.js",
     "static/css/main.90ecc0b6.chunk.css",
-    "static/js/main.1265e717.chunk.js"
+    "static/js/main.f9bba204.chunk.js"
   ]
 }
