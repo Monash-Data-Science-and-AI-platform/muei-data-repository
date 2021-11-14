@@ -1,0 +1,91 @@
+[
+    {
+        "name": "DS01",
+        "display_name": "DS01Site Meter Data",
+        "create_date": "08/11/21",
+        "source_url": "https://drive.google.com/file/d/1YwbrCdTHtF9B3ojMUI1LMGVbWVx4tXhH/view",
+        "description": "Dataset of the power consumption",
+        "tags": "Live",
+        "stories": "BPD data",
+        "source": "IDEAL",
+        "owner": "Scott"
+    },
+
+    {
+        "name": "student_faculty_demographics",
+        "display_name": "Stanford Student and Faculty Demographic Data",
+        "create_date": "2/25/20",
+        "source_url": "https://drive.google.com/file/d/1YwbrCdTHtF9B3ojMUI1LMGVbWVx4tXhH/view",
+        "description": "Dataset of the demographic data of Stanford students and faculty from 2010-2020.",
+        "tags": "Academics",
+        "stories": "stanford-in-the-2010s-tracking-stanfords-faculty-diversity-over-the-past-10-years",
+        "source": "IDEAL",
+        "owner": "bbergsneider@alumni.stanford.edu"
+    },
+    {
+        "name": "student_faculty_demographics",
+        "display_name": "Stanford Student and Faculty Demographic Data",
+        "create_date": "2/25/20",
+        "source_url": "https://drive.google.com/file/d/1YwbrCdTHtF9B3ojMUI1LMGVbWVx4tXhH/view",
+        "description": "Dataset of the demographic data of Stanford students and faculty from 2010-2020.",
+        "tags": "Academics",
+        "stories": "stanford-in-the-2010s-tracking-stanfords-faculty-diversity-over-the-past-10-years",
+        "source": "IDEAL",
+        "owner": "bbergsneider@alumni.stanford.edu"
+    },
+    {
+        "name": "student_faculty_demographics",
+        "display_name": "Stanford Student and Faculty Demographic Data",
+        "create_date": "2/25/20",
+        "source_url": "https://drive.google.com/file/d/1YwbrCdTHtF9B3ojMUI1LMGVbWVx4tXhH/view",
+        "description": "Dataset of the demographic data of Stanford students and faculty from 2010-2020.",
+        "tags": "Academics",
+        "stories": "stanford-in-the-2010s-tracking-stanfords-faculty-diversity-over-the-past-10-years",
+        "source": "IDEAL",
+        "owner": "bbergsneider@alumni.stanford.edu"
+    },
+    {
+        "name": "student_faculty_demographics",
+        "display_name": "Stanford Student and Faculty Demographic Data",
+        "create_date": "2/25/20",
+        "source_url": "https://drive.google.com/file/d/1YwbrCdTHtF9B3ojMUI1LMGVbWVx4tXhH/view",
+        "description": "Dataset of the demographic data of Stanford students and faculty from 2010-2020.",
+        "tags": "Academics",
+        "stories": "stanford-in-the-2010s-tracking-stanfords-faculty-diversity-over-the-past-10-years",
+        "source": "IDEAL",
+        "owner": "bbergsneider@alumni.stanford.edu"
+    },
+    {
+        "name": "student_faculty_demographics",
+        "display_name": "Stanford Student and Faculty Demographic Data",
+        "create_date": "2/25/20",
+        "source_url": "https://drive.google.com/file/d/1YwbrCdTHtF9B3ojMUI1LMGVbWVx4tXhH/view",
+        "description": "Dataset of the demographic data of Stanford students and faculty from 2010-2020.",
+        "tags": "Academics",
+        "stories": "stanford-in-the-2010s-tracking-stanfords-faculty-diversity-over-the-past-10-years",
+        "source": "IDEAL",
+        "owner": "bbergsneider@alumni.stanford.edu"
+    },
+    {
+        "name": "student_faculty_demographics",
+        "display_name": "Stanford Student and Faculty Demographic Data",
+        "create_date": "2/25/20",
+        "source_url": "https://drive.google.com/file/d/1YwbrCdTHtF9B3ojMUI1LMGVbWVx4tXhH/view",
+        "description": "Dataset of the demographic data of Stanford students and faculty from 2010-2020.",
+        "tags": "Academics",
+        "stories": "stanford-in-the-2010s-tracking-stanfords-faculty-diversity-over-the-past-10-years",
+        "source": "IDEAL",
+        "owner": "bbergsneider@alumni.stanford.edu"
+    },
+    {
+        "name": "student_faculty_demographics",
+        "display_name": "Stanford Student and Faculty Demographic Data",
+        "create_date": "2/25/20",
+        "source_url": "https://drive.google.com/file/d/1YwbrCdTHtF9B3ojMUI1LMGVbWVx4tXhH/view",
+        "description": "Dataset of the demographic data of Stanford students and faculty from 2010-2020.",
+        "tags": "Academics",
+        "stories": "stanford-in-the-2010s-tracking-stanfords-faculty-diversity-over-the-past-10-years",
+        "source": "IDEAL",
+        "owner": "bbergsneider@alumni.stanford.edu"
+    }
+]
