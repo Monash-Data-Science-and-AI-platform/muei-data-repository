@@ -5,7 +5,9 @@ import { Switch, HashRouter, Route, BrowserRouter } from "react-router-dom";
 import NavBar from './components/NavBar';
 import LandingPage from './components/LandingPage';
 import Datasets from './components/Datasets';
+import Projects from './components/Projects';
 import DatasetDetails from './components/DatasetDetails';
+import ProjectDetails from './components/ProjectDetails';
 import PostDataset from './components/PostDataset';
 import RequestDataset from './components/RequestData';
 import AboutUs from './components/AboutUs';
@@ -44,7 +46,9 @@ class App extends Component {
               <Switch>
                 <Route exact path='/' component={LandingPage} />
                 <Route exact path='/datasets' component={Datasets} />
+                <Route exact path='/projects' component={Projects} />
                 <Route path='/datasets/:name' component={DatasetDetails} />
+                <Route path='/projects/:name' component={ProjectDetails} />
                 <Route exact path='/aboutus' component={AboutUs} />
                 <Route exact path='/contribute' component={PostDataset} />
                 <Route exact path='/requestdata' component={RequestDataset} />

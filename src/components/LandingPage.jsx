@@ -16,6 +16,7 @@ export default class LandingPage extends React.Component {
       isLoaded: false,
       items: [],
       articles: [],
+      projects:[]
     };
   }
 
@@ -45,6 +46,21 @@ export default class LandingPage extends React.Component {
           this.setState({
             isLoaded: true,
             items: result.data,
+          });
+        },
+          (error) => {
+            this.setState({
+              isLoaded: true,
+              error
+            });
+          }
+        )
+
+      axios.get('https://api.jsonbin.io/b/6194506b01558c731cc3a286/2')
+      .then(result => {
+          this.setState({
+            isLoaded: true,
+            projects: result.data,
           });
         },
           (error) => {
@@ -94,12 +110,37 @@ export default class LandingPage extends React.Component {
             
             <div id='lpbuttons'>
               <Link to="/datasets" className="btnPrimary">Explore data</Link>
+              
               {/*<a href="#" className="btnTertiary">Get alerts</a>  */}
             </div>
 
 
           </div>
         </header>
+
+        <div className="newDatasets">
+          <h3>Featured Projects</h3>
+          <div className="mini">
+            {this.state.projects.slice(0, 6).map(project =>
+              <Link to={{
+                pathname: '/projects/' + project.name,
+                state: {
+                  data: project,
+                }
+              }} className="seeMore">
+                <div className="title">
+                {project.display_name}
+              </div>
+
+              <div className="lightTitle"> <b> Datasets used:</b> {project.tags} </div>
+              <div className="lightTitle"><b> Published on:</b> {project.create_date} </div>
+              <div className="lightTitle"><b> Principal Investigator:</b> {project.source} </div>
+              </Link>
+            )
+            }
+          </div>
+          <Link to="/projects" className="seeMore">See more</Link>
+        </div>
 
         <div className="newDatasets">
           <h3>Featured Datasets</h3>

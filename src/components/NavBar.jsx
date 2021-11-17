@@ -20,6 +20,7 @@ function NavBar() {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ml-auto">
             <Nav.Link href="#/datasets">Datasets</Nav.Link>
+            <Nav.Link href="#/projects">Projects</Nav.Link>
             <Nav.Link href="#/requestdata">Request new data collection</Nav.Link>
             <Nav.Link href="#/aboutus">About Us</Nav.Link>
             <Nav.Link href="#/contribute">Contribute a Dataset</Nav.Link>
